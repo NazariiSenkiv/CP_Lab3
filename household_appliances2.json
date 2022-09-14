@@ -22,7 +22,7 @@
   },
   {
     "name": "air conditioner",
-    "model": "CH-S12XN7 Prima Plus\n",
+    "model": "CH-S12XN7 Prima Plus",
     "manufacturer": "Cooper&Hunter",
     "price": 16960.0,
     "max_power": 0.96
@@ -43,7 +43,7 @@
   },
   {
     "name": "TV",
-    "model": "58PUS8506/12\n",
+    "model": "58PUS8506/12",
     "manufacturer": "Philips",
     "price": 32999.0,
     "max_power": 0.75
