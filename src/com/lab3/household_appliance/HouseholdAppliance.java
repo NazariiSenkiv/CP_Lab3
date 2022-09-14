@@ -51,6 +51,12 @@ public class HouseholdAppliance {
         this.maxPower = maxPower;
     }
 
+    @Override
+    public String toString() {
+        return "{name=\"" + name +"\", model=\"" + model +"\", manuf=\"" + manufacturer + "\", price=\""
+                + price + "\", max power=\"" + maxPower + "\"}";
+    }
+
     public static class HousingApplianceJsonObjectParser {
         private static final String TAG_NAME = "name";
         private static final String TAG_MODEL = "model";
