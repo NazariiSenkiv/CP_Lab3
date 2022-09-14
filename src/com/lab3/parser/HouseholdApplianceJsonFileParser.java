@@ -1,6 +1,6 @@
 package com.lab3.parser;
 
-import com.lab3.HouseholdAppliance;
+import com.lab3.household_appliance.HouseholdAppliance;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;

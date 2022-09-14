@@ -1,4 +1,4 @@
-package com.lab3;
+package com.lab3.household_appliance;
 
 import org.json.simple.JSONObject;
 
