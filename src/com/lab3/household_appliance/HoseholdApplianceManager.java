@@ -33,4 +33,21 @@ public class HoseholdApplianceManager {
 
         return names;
     }
+
+    public List<HouseholdAppliance> joinAndSortByPriceDescending(List<HouseholdAppliance> appliances1,
+                                                                 List<HouseholdAppliance> appliances2) {
+        List<HouseholdAppliance> unitedList = new ArrayList<>();
+        unitedList.addAll(appliances1);
+        unitedList.addAll(appliances2);
+
+        // descending price sort
+        unitedList.sort(new Comparator<HouseholdAppliance>() {
+            @Override
+            public int compare(HouseholdAppliance h1, HouseholdAppliance h2) {
+                return h2.getPrice().compareTo(h1.getPrice());
+            }
+        });
+
+        return unitedList;
+    }
 }
