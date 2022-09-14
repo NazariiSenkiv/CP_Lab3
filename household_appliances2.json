@@ -1,0 +1,65 @@
+[
+  {
+    "name": "air conditioner",
+    "model": "AG-11N8C2F-I/AG-11N8C2F-O",
+    "manufacturer": "Midea",
+    "price": 20349.0,
+    "max_power": 1.44
+  },
+  {
+    "name": "air conditioner",
+    "model": "CH-S09FTXQ-NG Veritas Wi-Fi",
+    "manufacturer": "Cooper&Hunter",
+    "price": 24159.99,
+    "max_power": 0.73
+  },
+  {
+    "name": "air conditioner",
+    "model": "ISR-09HR-SC1-DN8 Heating Belt",
+    "manufacturer": "Idea",
+    "price": 18499.39,
+    "max_power": 1.6
+  },
+  {
+    "name": "air conditioner",
+    "model": "CH-S12XN7 Prima Plus\n",
+    "manufacturer": "Cooper&Hunter",
+    "price": 16960.0,
+    "max_power": 0.96
+  },
+  {
+    "name": "TV",
+    "model": "UE32T5300AUXUA Smart TV Black",
+    "manufacturer": "Samsung",
+    "price": 12899.99,
+    "max_power": 0.37
+  },
+  {
+    "name": "TV",
+    "model": "UE43AU8000UXUA Black",
+    "manufacturer": "Samsung",
+    "price": 19799.99,
+    "max_power": 0.45
+  },
+  {
+    "name": "TV",
+    "model": "58PUS8506/12\n",
+    "manufacturer": "Philips",
+    "price": 32999.0,
+    "max_power": 0.75
+  },
+  {
+    "name": "electric kettle",
+    "model": "KI533811",
+    "manufacturer": "Tefal",
+    "price": 1599.0,
+    "max_power": 2.4
+  },
+  {
+    "name": "electric kettle",
+    "model": "KI772D38",
+    "manufacturer": "Tefal",
+    "price": 1599.0,
+    "max_power": 2.2
+  }
+]
