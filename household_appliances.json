@@ -1,0 +1,107 @@
+[
+  {
+    "name": "air conditioner",
+    "model": "CH-S07FTXE2-NG Alfa",
+    "manufacturer": "Cooper&Hunter",
+    "price": 20680.0,
+    "max_power": 0.6
+  },
+  {
+    "name": "air conditioner",
+    "model": "AF8-09N1C2-I/AF8-09N1C2-O Forest",
+    "manufacturer": "Midea",
+    "price": 16999.99,
+    "max_power": 0.82
+  },
+  {
+    "name": "air conditioner",
+    "model": "ISR-07HR-MA0-DN1",
+    "manufacturer": "Idea",
+    "price": 13999.0,
+    "max_power": 1.2
+  },
+  {
+    "name": "clothes iron",
+    "model": "EasySpeed GC1742/40",
+    "manufacturer": "Philips",
+    "price": 999.0,
+    "max_power": 2.0
+  },
+  {
+    "name": "clothes iron",
+    "model": "Azur GC4909/60",
+    "manufacturer": "Philips",
+    "price": 3399.0,
+    "max_power": 3.0
+  },
+  {
+    "name": "clothes iron",
+    "model": "ZIR0500 Trip",
+    "manufacturer": "Zelmer",
+    "price": 1239.0,
+    "max_power": 1.1
+  },
+  {
+    "name": "robotic vacuum cleaner",
+    "model": "Mi Robot Vacuum-Mop 2 Lite EU",
+    "manufacturer": "Xiaomi",
+    "price": 8999.0,
+    "max_power": 0.06
+  },
+  {
+    "name": "robotic vacuum cleaner",
+    "model": "S5 Max White",
+    "manufacturer": "RoboRock",
+    "price": 17999.0,
+    "max_power": 0.058
+  },
+  {
+    "name": "robotic vacuum cleaner",
+    "model": "E2 Inertial Navigation",
+    "manufacturer": "Lenovo",
+    "price": 6999.99,
+    "max_power": 0.04
+  },
+  {
+    "name": "electric kettle",
+    "model": "Electric Kettle",
+    "manufacturer": "Xiaomi",
+    "price": 1499.78,
+    "max_power": 1.8
+  },
+  {
+    "name": "electric kettle",
+    "model": "Smart Kettle Pro",
+    "manufacturer": "Xiaomi",
+    "price": 2499.99,
+    "max_power": 1.8
+  },
+  {
+    "name": "electric kettle",
+    "model": "5KEK1522EBK",
+    "manufacturer": "KitchenAid",
+    "price": 13934.0,
+    "max_power": 2.4
+  },
+  {
+    "name": "TV",
+    "model": "Mi TV P1 43 Black",
+    "manufacturer": "Xiaomi",
+    "price": 14999.99,
+    "max_power": 0.5
+  },
+  {
+    "name": "TV",
+    "model": "UE43AU7100UXUA Black",
+    "manufacturer": "Samsung",
+    "price": 17899.0,
+    "max_power": 0.45
+  },
+  {
+    "name": "TV",
+    "model": "Mi TV UHD 4S Smart TV Silver",
+    "manufacturer": "Xiaomi",
+    "price": 26999.66,
+    "max_power": 0.64
+  }
+]
